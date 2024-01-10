@@ -23,6 +23,12 @@ An Apple Music Playlist ID begins with "pl." and is found in the playlist url.
   artwork: str
   playlistID: str
 }
+
+OR 
+
+{
+  error: True
+}
 ```
 ```bash
   > python3 AMExtractInfo.py 'pl.f54198ad42404535be13eabf3835fb22'
@@ -68,6 +74,12 @@ A Spotify Playlist ID is 22 characters long (A-Za-z0-9), and is found in the pla
   description: str
   artwork: str
   playlistID: str
+}
+
+OR 
+
+{
+  error: True
 }
 ```
 ```bash
