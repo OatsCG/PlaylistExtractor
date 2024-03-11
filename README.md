@@ -1,7 +1,7 @@
 
 # PlaylistExtractor
 
- For use in [*openmusic-compatible* servers](https://github.com/OatsCG/openmusic-Server-Specs) and educational purposes.
+ For use in [*Openmusic-Compatible* servers](https://github.com/OatsCG/Openmusic-Server-Specs) and educational purposes.
  
  Python scripts to extract metadata and tracks from an Apple Music or Spotify playlist via the Playlist ID. No API keys needed.
 
